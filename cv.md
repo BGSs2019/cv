@@ -29,6 +29,7 @@
 ## Нерелевантные навыки 🌍
 - pyqt, django, flask
 - IEC61131-3, C, C++, Qt, cmake, g++
+- git, docker
 - html, css, javascript (node.js)
 - R shiny
 - Английский язык
