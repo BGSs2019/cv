@@ -22,9 +22,9 @@
 
 ## Релевантные проекты
 - Яндекс практикум
-- ![Анализ городов](https://github.com/BGSs2019/data_science_practice/blob/main/s1_cities_analyses.ipynb)
-- ![Предсказание наводнений](https://github.com/BGSs2019/flood_prediction)
-- ![Голос в текст](https://github.com/BGSs2019/STT_vosk_speech_transcript)
+- [Анализ городов](https://github.com/BGSs2019/data_science_practice/blob/main/s1_cities_analyses.ipynb) - анализ открытых данных
+- [Предсказание наводнений](https://github.com/BGSs2019/flood_prediction) - много кода, нейросети, интерфейс, многопоточность
+- [Голос в текст](https://github.com/BGSs2019/STT_vosk_speech_transcript) - применение предобученной модели
 
 ## Нерелевантные навыки
 - pyqt, django, flask
@@ -32,6 +32,6 @@
 - R shiny
 
 ## Нерелевантные проекты
-- ![Предложение](https://github.com/BGSs2019/com_offer)
-- ![Стоимость](https://github.com/BGSs2019/putaprice)
-- ![Чертежи](https://github.com/BGSs2019/dwg_dxf2pdf)
+- [Предложение](https://github.com/BGSs2019/com_offer) - работа с pandas, xlsx, pdf
+- [Стоимость](https://github.com/BGSs2019/putaprice) - работа с xlsx
+- [Чертежи](https://github.com/BGSs2019/dwg_dxf2pdf) - работа с dwg, dxf
