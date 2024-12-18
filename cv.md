@@ -1,5 +1,5 @@
 # Data scientist
-
+[!photo](https://drive.google.com/file/d/1NvDp9qKVX2ILZafNtKIhGmR6mpFet0HB/view?usp=sharing)
 ## Личные данные
 - Бобров Георгий Сергеевич
 - 26 лет
